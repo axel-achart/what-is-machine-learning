@@ -1,6 +1,6 @@
 # What is ML project ?
 
-
+## Notions supplémentaires
 Apprentissage automatique **semi-supervisée** =
 - Branche du machine learning, qui combine apprentissage supervisée et non supervisée.
 - Il utilise des données étiquetées et non étiquetées pour entraîner des modèles d'IA sur des tâches de classification et de régression.
